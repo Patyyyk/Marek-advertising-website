@@ -1,4 +1,4 @@
 # Marek-advertising-website
-This will be my first web site for commercial use. 
+This will be my first website for commercial use. 
 
-I write more later about this project. 
+I will write more later about this project. 
